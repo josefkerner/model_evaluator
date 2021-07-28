@@ -9,3 +9,5 @@ On top of that, framework contains also automatical data preparation pipeline, w
 So basically, the framework allows user to quickly search the best combination accross the entire model search space ( feature set, data preparation steps, model parameters)
 
 Once the best configuration is selected, it can be easily reused during the production scoring process.
+
+Its also highly flexible in terms of code architecture, so can be easily forked to suit your custom needs.
